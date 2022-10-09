@@ -1,6 +1,6 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
 <h1 align="center">Hi 👋, I'm Tharindu</h1>
-<h3 align="center">A passionate fullstack/mobile app/software developer from SriLanka</h3>
+<h3 align="center">A passionate fullstack/mobile app &software developer from SriLanka</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindugithu&label=Profile%20views&color=0e75b6&style=flat" alt="tharindugithu" /> </p>
