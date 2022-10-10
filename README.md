@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Tharinduu, a full-time full-stack/mobile app and software developer 👨‍💻🚀</div>  
+### <div align="center">I'm Tharinduu, a full-stack/mobile app and software developer 👨‍💻🚀</div>  
   
 
 - 🔭 I’m currently working on face recognition AI system😇😇  
