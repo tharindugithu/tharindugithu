@@ -149,6 +149,12 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindugithu&" alt="tharindugithu" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tharindugithu&" alt="tharindugithu" /></p>
+### ✍️ Random Dev Quote
 
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 ----
