@@ -107,7 +107,7 @@
 <a href="https://codepen.com/tharindugithu" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/tharindugithu" target="_blank">
+<a href="https://stackoverflow.com/users/17036934/tharindu-mandusanka?tab=profile" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/Tharindu Mandusanka" target="_blank">
