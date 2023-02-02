@@ -1,6 +1,8 @@
 
 <!-- ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png) -->
-![Computer-screen-code-glitch-animation-gif-background-free](https://user-images.githubusercontent.com/91211707/216276998-1af1dd96-aab4-44ec-bbfb-f1433f88c7e1.gif)
+<!-- ![Computer-screen-code-glitch-animation-gif-background-free](https://user-images.githubusercontent.com/91211707/216276998-1af1dd96-aab4-44ec-bbfb-f1433f88c7e1.gif) -->
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966](https://user-images.githubusercontent.com/91211707/216277828-62e70c2d-7149-44e7-91a8-234611561ded.gif)
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:50%" />
 </div>  
@@ -24,6 +26,10 @@
   
 -  😎😎You Can see my work here(⊙_⊙;)  https://tharindugithu.github.io/Portfolio/
 <br/>  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/91211707/216278351-50f07824-054a-4f04-8890-011866af47c2.gif" align="center" style="width:20%;border-radius:5px" />
+</div>  
+
 
 /////////////////////////////////////////////(⊙_⊙;)(⊙_⊙;)/////////////////////////////////////////////////////////
 ## My Skill Set  
@@ -152,7 +158,7 @@
 
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tharindugithu&" alt="tharindugithu" /></p>
-### ✍️ Random Dev Quote
+<h2>### ✍️ Random Dev Quote</h2>
 
 <div align="center">
 
