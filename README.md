@@ -1,9 +1,11 @@
 
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)
+<!-- ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png) -->
+![Computer-screen-code-glitch-animation-gif-background-free](https://user-images.githubusercontent.com/91211707/216276998-1af1dd96-aab4-44ec-bbfb-f1433f88c7e1.gif)
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:50%" />
 </div>  
   
+
 
 ### <div align="center">Hello there😇,I'm Tharinduu, a full-stack/mobile app and software developer 👨‍💻🚀</div>  
   
